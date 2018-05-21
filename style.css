@@ -28,12 +28,16 @@ p{
   color: #fff !important;
   font-size: 20px;
   margin-left: 10px;
-
+	padding-left: 30px;
 }
 
 .navbar-nav>li{
   margin: 2px;
   border-radius: 4px;
+}
+
+.navbar-nav{
+	padding-right: 50px;
 }
 
 .navbar-nav>li:hover{
